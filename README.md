@@ -3,6 +3,7 @@
 > **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeone-ofc/Alphabot-Md#For-Termux)
 
 -----------------------------------------------------
+https://studio.mogenius.com/studio/cloud-space/cloud-space-overview
 
 <p align="center">
 <img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
